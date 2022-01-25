@@ -1,7 +1,6 @@
 ## Hi I'm Maulik 👋
 
 Studying Software Engineering at the University of Ottawa! <br>
-Currently playing around with React and ThreeJS to create 3D scenes 🧗 
 
 Always happy to connect!
 
